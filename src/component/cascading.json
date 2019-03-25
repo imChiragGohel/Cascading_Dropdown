@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "India",
+        "s_id": 0
+    },
+    {
+        "id": 2,
+        "name": "Australia",
+        "s_id": 0
+    },
+    {
+        "id": 3,
+        "name": "Africa",
+        "s_id": 0
+    },
+    {
+        "id": 4,
+        "name": "Gujarat",
+        "s_id": 1
+    },
+    {
+        "id": 5,
+        "name": "Utrakhand",
+        "s_id": 1
+    },
+    {
+        "id": 6,
+        "name": "UP",
+        "s_id": 1
+    },
+    {
+        "id": 7,
+        "name": "Tasmania",
+        "s_id": 2
+    },
+    {
+        "id": 8,
+        "name": "New South Wales",
+        "s_id": 2
+    },
+    {
+        "id": 9,
+        "name": "Nigeria",
+        "s_id": 3
+    },
+    {
+        "id": 10,
+        "name": "Egypt",
+        "s_id": 3
+    },
+    {
+        "id": 11,
+        "name": "Kenya",
+        "s_id": 3
+    },
+    {
+        "id": 12,
+        "name": "Ahmedabad",
+        "s_id": 4
+    },
+    {
+        "id": 13,
+        "name": "Rajkot",
+        "s_id": 4
+    },
+    {
+        "id": 14,
+        "name": "Jamnagar",
+        "s_id": 4
+    },
+    {
+        "id": 15,
+        "name": "Daheradoon",
+        "s_id": 5
+    },
+    {
+        "id": 16,
+        "name": "Haridwar",
+        "s_id": 5
+    },
+    {
+        "id": 17,
+        "name": "Rushikesh",
+        "s_id": 5
+    },
+    {
+        "id": 18,
+        "name": "Kedarnath",
+        "s_id": 5
+    },
+    {
+        "id": 19,
+        "name": "Ayodhya",
+        "s_id": 6
+    },
+    {
+        "id": 20,
+        "name": "hobart",
+        "s_id": 7
+    },
+    {
+        "id": 21,
+        "name": "Sydney",
+        "s_id": 8
+    },
+    {
+        "id": 22,
+        "name": "New Castel",
+        "s_id": 8
+    },
+    {
+        "id": 23,
+        "name": "Albury",
+        "s_id": 8
+    },
+    {
+        "id": 24,
+        "name": "Lagos",
+        "s_id": 9
+    },
+    {
+        "id": 25,
+        "name": "Cairo",
+        "s_id": 10
+    },
+    {
+        "id": 26,
+        "name": "Giza",
+        "s_id": 10
+    },
+    {
+        "id": 27,
+        "name": "Luxor",
+        "s_id": 10
+    },
+    {
+        "id": 28,
+        "name": "Nairobi",
+        "s_id": 11
+    },
+    {
+        "id": 29,
+        "name": "Kisumu",
+        "s_id": 11
+    },
+    {
+        "id": 30,
+        "name": "Mombasa",
+        "s_id": 11
+    }
+]
